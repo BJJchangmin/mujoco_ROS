@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/ycm/mujoco/mujoco_ROS/build",
+  "command": "/usr/bin/c++   -I/home/ycm/mujoco/mujoco_ROS/include -I/home/ycm/mujoco/mujoco_ROS/include/math -I/home/ycm/mujoco/mujoco_ROS/include/robot -I/home/ycm/mujoco/mujoco_ROS/include/trajectory -I/home/ycm/mujoco/mujoco_ROS/include/controller -I/home/ycm/mujoco/mujoco_ROS/include/utilities  -g   -Wpedantic -std=gnu++17 -o CMakeFiles/simulation.dir/src/controller/TrackingController.cpp.o -c /home/ycm/mujoco/mujoco_ROS/src/controller/TrackingController.cpp",
+  "file": "/home/ycm/mujoco/mujoco_ROS/src/controller/TrackingController.cpp"
+},
+{
+  "directory": "/home/ycm/mujoco/mujoco_ROS/build",
+  "command": "/usr/bin/c++   -I/home/ycm/mujoco/mujoco_ROS/include -I/home/ycm/mujoco/mujoco_ROS/include/math -I/home/ycm/mujoco/mujoco_ROS/include/robot -I/home/ycm/mujoco/mujoco_ROS/include/trajectory -I/home/ycm/mujoco/mujoco_ROS/include/controller -I/home/ycm/mujoco/mujoco_ROS/include/utilities  -g   -Wpedantic -std=gnu++17 -o CMakeFiles/simulation.dir/src/glfw_adapter.cc.o -c /home/ycm/mujoco/mujoco_ROS/src/glfw_adapter.cc",
+  "file": "/home/ycm/mujoco/mujoco_ROS/src/glfw_adapter.cc"
+},
+{
+  "directory": "/home/ycm/mujoco/mujoco_ROS/build",
+  "command": "/usr/bin/c++   -I/home/ycm/mujoco/mujoco_ROS/include -I/home/ycm/mujoco/mujoco_ROS/include/math -I/home/ycm/mujoco/mujoco_ROS/include/robot -I/home/ycm/mujoco/mujoco_ROS/include/trajectory -I/home/ycm/mujoco/mujoco_ROS/include/controller -I/home/ycm/mujoco/mujoco_ROS/include/utilities  -g   -Wpedantic -std=gnu++17 -o CMakeFiles/simulation.dir/src/glfw_dispatch.cc.o -c /home/ycm/mujoco/mujoco_ROS/src/glfw_dispatch.cc",
+  "file": "/home/ycm/mujoco/mujoco_ROS/src/glfw_dispatch.cc"
+},
+{
+  "directory": "/home/ycm/mujoco/mujoco_ROS/build",
+  "command": "/usr/bin/c++   -I/home/ycm/mujoco/mujoco_ROS/include -I/home/ycm/mujoco/mujoco_ROS/include/math -I/home/ycm/mujoco/mujoco_ROS/include/robot -I/home/ycm/mujoco/mujoco_ROS/include/trajectory -I/home/ycm/mujoco/mujoco_ROS/include/controller -I/home/ycm/mujoco/mujoco_ROS/include/utilities  -g   -Wpedantic -std=gnu++17 -o CMakeFiles/simulation.dir/src/lodepng.cpp.o -c /home/ycm/mujoco/mujoco_ROS/src/lodepng.cpp",
+  "file": "/home/ycm/mujoco/mujoco_ROS/src/lodepng.cpp"
+},
+{
+  "directory": "/home/ycm/mujoco/mujoco_ROS/build",
+  "command": "/usr/bin/c++   -I/home/ycm/mujoco/mujoco_ROS/include -I/home/ycm/mujoco/mujoco_ROS/include/math -I/home/ycm/mujoco/mujoco_ROS/include/robot -I/home/ycm/mujoco/mujoco_ROS/include/trajectory -I/home/ycm/mujoco/mujoco_ROS/include/controller -I/home/ycm/mujoco/mujoco_ROS/include/utilities  -g   -Wpedantic -std=gnu++17 -o CMakeFiles/simulation.dir/src/main.cc.o -c /home/ycm/mujoco/mujoco_ROS/src/main.cc",
+  "file": "/home/ycm/mujoco/mujoco_ROS/src/main.cc"
+},
+{
+  "directory": "/home/ycm/mujoco/mujoco_ROS/build",
+  "command": "/usr/bin/c++   -I/home/ycm/mujoco/mujoco_ROS/include -I/home/ycm/mujoco/mujoco_ROS/include/math -I/home/ycm/mujoco/mujoco_ROS/include/robot -I/home/ycm/mujoco/mujoco_ROS/include/trajectory -I/home/ycm/mujoco/mujoco_ROS/include/controller -I/home/ycm/mujoco/mujoco_ROS/include/utilities  -g   -Wpedantic -std=gnu++17 -o CMakeFiles/simulation.dir/src/platform_ui_adapter.cc.o -c /home/ycm/mujoco/mujoco_ROS/src/platform_ui_adapter.cc",
+  "file": "/home/ycm/mujoco/mujoco_ROS/src/platform_ui_adapter.cc"
+},
+{
+  "directory": "/home/ycm/mujoco/mujoco_ROS/build",
+  "command": "/usr/bin/c++   -I/home/ycm/mujoco/mujoco_ROS/include -I/home/ycm/mujoco/mujoco_ROS/include/math -I/home/ycm/mujoco/mujoco_ROS/include/robot -I/home/ycm/mujoco/mujoco_ROS/include/trajectory -I/home/ycm/mujoco/mujoco_ROS/include/controller -I/home/ycm/mujoco/mujoco_ROS/include/utilities  -g   -Wpedantic -std=gnu++17 -o CMakeFiles/simulation.dir/src/robot/MuJoCoInterface.cpp.o -c /home/ycm/mujoco/mujoco_ROS/src/robot/MuJoCoInterface.cpp",
+  "file": "/home/ycm/mujoco/mujoco_ROS/src/robot/MuJoCoInterface.cpp"
+},
+{
+  "directory": "/home/ycm/mujoco/mujoco_ROS/build",
+  "command": "/usr/bin/c++   -I/home/ycm/mujoco/mujoco_ROS/include -I/home/ycm/mujoco/mujoco_ROS/include/math -I/home/ycm/mujoco/mujoco_ROS/include/robot -I/home/ycm/mujoco/mujoco_ROS/include/trajectory -I/home/ycm/mujoco/mujoco_ROS/include/controller -I/home/ycm/mujoco/mujoco_ROS/include/utilities  -g   -Wpedantic -std=gnu++17 -o CMakeFiles/simulation.dir/src/robot/RobotLeg.cpp.o -c /home/ycm/mujoco/mujoco_ROS/src/robot/RobotLeg.cpp",
+  "file": "/home/ycm/mujoco/mujoco_ROS/src/robot/RobotLeg.cpp"
+},
+{
+  "directory": "/home/ycm/mujoco/mujoco_ROS/build",
+  "command": "/usr/bin/c++   -I/home/ycm/mujoco/mujoco_ROS/include -I/home/ycm/mujoco/mujoco_ROS/include/math -I/home/ycm/mujoco/mujoco_ROS/include/robot -I/home/ycm/mujoco/mujoco_ROS/include/trajectory -I/home/ycm/mujoco/mujoco_ROS/include/controller -I/home/ycm/mujoco/mujoco_ROS/include/utilities  -g   -Wpedantic -std=gnu++17 -o CMakeFiles/simulation.dir/src/simulate.cc.o -c /home/ycm/mujoco/mujoco_ROS/src/simulate.cc",
+  "file": "/home/ycm/mujoco/mujoco_ROS/src/simulate.cc"
+},
+{
+  "directory": "/home/ycm/mujoco/mujoco_ROS/build",
+  "command": "/usr/bin/c++   -I/home/ycm/mujoco/mujoco_ROS/include -I/home/ycm/mujoco/mujoco_ROS/include/math -I/home/ycm/mujoco/mujoco_ROS/include/robot -I/home/ycm/mujoco/mujoco_ROS/include/trajectory -I/home/ycm/mujoco/mujoco_ROS/include/controller -I/home/ycm/mujoco/mujoco_ROS/include/utilities  -g   -Wpedantic -std=gnu++17 -o CMakeFiles/simulation.dir/src/trajectory/MotionTrajectory.cpp.o -c /home/ycm/mujoco/mujoco_ROS/src/trajectory/MotionTrajectory.cpp",
+  "file": "/home/ycm/mujoco/mujoco_ROS/src/trajectory/MotionTrajectory.cpp"
+},
+{
+  "directory": "/home/ycm/mujoco/mujoco_ROS/build",
+  "command": "/usr/bin/c++   -I/home/ycm/mujoco/mujoco_ROS/include -I/home/ycm/mujoco/mujoco_ROS/include/math -I/home/ycm/mujoco/mujoco_ROS/include/robot -I/home/ycm/mujoco/mujoco_ROS/include/trajectory -I/home/ycm/mujoco/mujoco_ROS/include/controller -I/home/ycm/mujoco/mujoco_ROS/include/utilities  -g   -Wpedantic -std=gnu++17 -o CMakeFiles/simulation.dir/src/utilities/data_logging.cpp.o -c /home/ycm/mujoco/mujoco_ROS/src/utilities/data_logging.cpp",
+  "file": "/home/ycm/mujoco/mujoco_ROS/src/utilities/data_logging.cpp"
+}
+]
